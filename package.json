@@ -1,0 +1,20 @@
+{
+  "name": "ln-update-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyvas-pro/ln-update-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyvas-pro/ln-update-checker/issues"
+  },
+  "homepage": "https://github.com/tonyvas-pro/ln-update-checker#readme"
+}
